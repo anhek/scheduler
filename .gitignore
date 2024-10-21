@@ -1,0 +1,5 @@
+debug/
+venv/
+build/
+dist/
+.idea/
